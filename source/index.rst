@@ -1,10 +1,10 @@
 
-intro
+Intro
 ====================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: Contents:
-	   algo
-	   data
-welcome to mkbk-docs's documentation2
+	   tutorial/index
+	   changelog/index
+welcome to mkbk-doc's documentation
