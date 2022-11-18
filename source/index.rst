@@ -22,3 +22,8 @@
 
    changelog/changelog_zh
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 用户条款
+
+   terms/terms
