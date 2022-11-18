@@ -1,8 +1,8 @@
 changelog
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+test1
 
 .. toctree::
-    :maxdepth: 3
+   :maxdepth: 3
 
-    test
+   test

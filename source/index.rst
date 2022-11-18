@@ -1,12 +1,12 @@
 
-Intro
+welcome to mkbk-doc's documentation5
 ====================================
 
-welcome to mkbk-doc's documentation4
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: User Guide
+   :caption: Contents
 
    tutorial/index
    changelog/index
