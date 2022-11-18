@@ -1,4 +1,4 @@
 .. toctree::
 	:maxdepth:1
 	:caption: Contents:
-		test
+	test

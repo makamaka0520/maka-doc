@@ -5,6 +5,6 @@ Intro
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-	   tutorial/index
-	   changelog/index
+	tutorial/
+	changelog/
 welcome to mkbk-doc's documentation
