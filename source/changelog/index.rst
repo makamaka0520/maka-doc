@@ -1,8 +1,8 @@
-changelog
+RL Algorithm Taxonomy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-test1
+
 
 .. toctree::
-   :maxdepth: 3
+    :maxdepth: 1
 
-   test
+    test2

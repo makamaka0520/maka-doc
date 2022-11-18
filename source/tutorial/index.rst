@@ -1,8 +1,9 @@
+
 tutorial
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+====================================
 
-test1
+
+
 .. toctree::
-   :maxdepth: 3
-
-   test
+   :maxdepth: 1
+   test1
