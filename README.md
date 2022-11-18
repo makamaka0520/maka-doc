@@ -1,4 +1,4 @@
-Template 
+Welcome to MKBK documentation
 ======================
 
 Read the tutorial here:
