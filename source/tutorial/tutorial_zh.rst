@@ -1,9 +1,6 @@
-
-使用教程
+tutorial
 ====================================
 
 testdocs
 
-.. toctree::
-   :maxdepth: 1
-   test1
+

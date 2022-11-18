@@ -1,8 +1,4 @@
-修改日志
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+changelog
+=====================
 
 test docs
-.. toctree::
-    :maxdepth: 1
-
-    test2
