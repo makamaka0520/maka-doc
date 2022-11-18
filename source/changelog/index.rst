@@ -1,4 +1,8 @@
+changelog
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 .. toctree::
-	:maxdepth:1
-	:caption: Contents:
-	test
+    :maxdepth: 3
+
+    test
