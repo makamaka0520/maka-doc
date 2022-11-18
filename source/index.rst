@@ -7,6 +7,5 @@
 .. toctree::
    :maxdepth: 3
    :caption: 用户指南
-
-   使用教程/tutorial_zh
-   变更文档/changelog_zh
+   tutorial/tutorial_zh
+   tutorial/changelog_zh
