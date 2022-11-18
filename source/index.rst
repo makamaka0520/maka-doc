@@ -5,6 +5,6 @@ intro
 .. toctree::
    :maxdepth: 4
    :caption: Contents:
-	algo
-	data
+	   algo
+	   data
 welcome to mkbk-docs's documentation2
