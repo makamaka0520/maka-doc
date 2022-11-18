@@ -8,5 +8,5 @@
    :maxdepth: 3
    :caption: 用户指南
 
-   tutorial/tutorial_zh
-   changelog/changelog_zh
+   使用教程/tutorial_zh
+   变更文档/changelog_zh
