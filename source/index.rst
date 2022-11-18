@@ -1,4 +1,4 @@
-.. mkbk documentation master file, created by
+.. makabaka documentation master file, created by
    sphinx-quickstart on Fri Nov 18 20:40:00 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -7,14 +7,14 @@
 ##########################
 
 
-索引
-=====================
+
 
 .. toctree::
    :maxdepth: 2
    :caption: 使用指南
 
-   tutorial/tutorial_zh
+   tutorial/AI_painting_with_makabaka
+   tutorial/concretely_generate_character&scene
 
 .. toctree::
    :maxdepth: 2
