@@ -4,7 +4,7 @@ Intro
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 
 	tutorial/
 	changelog/
-welcome to mkbk-doc's documentation
+welcome to mkbk-doc's documentation3
