@@ -1,6 +1,11 @@
 如何具象的去生成一个人物以及场景
 ########################################
 
+.. note::
+   
+   此教程将教会大家一种能够有效出图的方法论，不代表只能通过此方法出图。
+
+
 
 1.构建大体结构
 =====================================
@@ -55,12 +60,14 @@
 
 3.修改细节描述
 =====================================
-例如
 
-- 我想要为黄色长发，就可以修改描述词 ``blue hair`` 为 ``Long yellow hair``
+例如，我想要为黄色长发，就可以修改描述词 ``blue hair`` 为 ``Long yellow hair``
+
 
 .. code-block:: shell
+
    A girl, Long yellow hair, blue pupils, bikini,Facing the camera, beautiful sea water with details, bubbles, coconuts, beaches, dynamic light, floating hair, sunlight, splash, waves, jewel like eyes, diffusion, surround
+
 
 .. image:: img/cgc_3.jpg
    :align: center
