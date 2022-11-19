@@ -89,6 +89,7 @@ TAG强调功能：
 
 .. image:: img/text2img_pic10.png
    :align: center
+   :width: 300
 
 想要一个有披风的战士：
 
@@ -98,6 +99,7 @@ TAG强调功能：
 
 .. image:: img/text2img_pic11.png
    :align: center
+   :width: 300
 
 想要一个有披风，有皇冠，有翅膀的战士：
 
@@ -107,6 +109,7 @@ TAG强调功能：
 
 .. image:: img/text2img_pic12.png
    :align: center
+   :width: 300
 
 ！！！等一下，我的翅膀哪去了，不要慌，这个时候你就需要tag强调了：
 
@@ -116,6 +119,7 @@ TAG强调功能：
 
 .. image:: img/text2img_pic13.png
    :align: center
+   :width: 300
 
 .. note::
 
@@ -130,6 +134,7 @@ TAG强调功能：
 
 .. image:: img/text2img_pic14.png
    :align: center
+   :width: 300
 
 想要你的二次元动漫场景？那你只需要这样输入：
 
@@ -139,6 +144,7 @@ TAG强调功能：
 
 .. image:: img/text2img_pic15.png
    :align: center
+   :width: 300
 
 .. code-block:: shell
 
@@ -146,4 +152,5 @@ TAG强调功能：
 
 .. image:: img/text2img_pic16.png
    :align: center
+   :width: 300
 
