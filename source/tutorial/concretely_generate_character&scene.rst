@@ -13,7 +13,7 @@
 
 此时，你脑海中应该能够想象出一个简单的描述词汇
 
-一个女孩，蓝色头发，蓝色瞳孔，比基尼泳衣
+- 一个女孩，蓝色头发，蓝色瞳孔，比基尼泳衣
 
 .. code-block:: shell
 
@@ -55,8 +55,12 @@
 
 3.修改细节描述
 =====================================
+例如
 
-例如，我想要为黄色长发，就可以修改描述词 ``blue hair`` 为 ``Long yellow hair``
+- 我想要为黄色长发，就可以修改描述词 ``blue hair`` 为 ``Long yellow hair``
+
+.. code-block:: shell
+   A girl, Long yellow hair, blue pupils, bikini,Facing the camera, beautiful sea water with details, bubbles, coconuts, beaches, dynamic light, floating hair, sunlight, splash, waves, jewel like eyes, diffusion, surround
 
 .. image:: img/cgc_3.jpg
    :align: center
