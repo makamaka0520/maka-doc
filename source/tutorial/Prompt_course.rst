@@ -91,7 +91,7 @@ TAG强调功能：
    :align: center
    :width: 300
 
-想要一个有披风的战士：
+想要一个有*披风*的战士：
 
 .. code-block:: shell
 
