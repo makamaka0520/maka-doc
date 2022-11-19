@@ -79,6 +79,9 @@ TAG强调功能：
 尝试一下
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+基础类
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 在熟悉了基础的语法操作之后，我们就要开始打造自己专属的AI创作啦，初入二次元，你需要一个量身定做的角色，我们就从普通的语法开始搭建啦。
 
 如果你想要一个战士：
@@ -158,5 +161,44 @@ TAG强调功能：
 
 .. image:: img/text2img_pic16.png
    :align: center
+   :width: 300
    
 
+有披风有皇冠，有翅膀的战士基础上细化
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+首先，我们增加【动态类】，人物看向镜头，人物微笑，单手举起
+
+.. code-block:: shell
+
+    one boy, armor, cloak, {feathered wings:1.3}, crown,Look at the camera, the characters smile and raise one hand
+
+.. image:: img/cb_1.jpg
+   :align: center
+   :width: 300
+
+然后增加 【物件】，城堡，徽章在胸前
+
+.. code-block:: shell
+
+    one boy, armor, cloak, {feathered wings:1.4}, crown,Look at the camera, the characters smile and raise one hand,Castle, {badge on chest:1.3}
+
+.. image:: img/cb_2.jpg
+   :align: center
+   :width: 300
+
+
+再次添加 【细致度】【特效】，精致的脸庞，火焰光晕，扩散，泡沫，漂浮羽毛
+
+
+.. code-block:: shell
+
+    one boy, armor, cloak, {feathered wings:1.4}, crown,Look at the camera, the characters smile and raise one hand,Castle, {badge on chest:1.3},Exquisite face, flame glow, diffusion, foam, floating feathers
+
+.. image:: img/cb_3.jpg
+   :align: center
+   :width: 300
+
+.. note::
+
+    可多次随机多你认为满意的图片，如一直无法随机到，请查看下关键词描述的是否准确
