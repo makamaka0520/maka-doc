@@ -13,7 +13,7 @@
    :maxdepth: 2
    :caption: 使用指南
 
-   tutorial/Basic_Interface_Operation_t2i
+   tutorial/Basic_Interface_Operation_T2I
    tutorial/Prompt_course
    tutorial/concretely_generate_character&scene
 
