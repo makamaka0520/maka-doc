@@ -107,3 +107,44 @@
     - 生成。旁边的小数字代表这次生成所需要耗费的点数
 
     - 点数与 生成图片的数量，生成图片的分辨率成正比
+
+1.7 试一试
+----------------------------------------
+
+我们就使用Demo的这张图片进行尝试
+
+.. image:: img/i2i_2.png
+   :align: center
+   :width: 300
+
+我们想要在此基础上增加 一点 ``镜头光晕``
+
+- lens flare
+
+注意：在I2I中很关键的一项参数 ``strength``
+
+当前为 0.9 
+
+.. image:: img/i2i_5.png
+   :align: center
+   :width: 300
+
+我们尝试生成下 
+
+.. image:: img/i2i_4.png
+   :align: center
+   :width: 300
+
+额，貌似用力过猛，除了 ``镜头光晕`` 和原图的差距有点大，没事，我们参数修改下 ``strength``
+
+.. image:: img/i2i_6.png
+   :align: center
+   :width: 300
+
+我们继续尝试生成下
+
+.. image:: img/i2i_3.png
+   :align: center
+   :width: 300
+
+OK，搞定，我们在原图的基础上添加了一些特效。
