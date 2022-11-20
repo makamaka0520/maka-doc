@@ -14,6 +14,7 @@
    :caption: 使用指南
 
    tutorial/Basic_Interface_Operation_T2I
+   tutorial/Basic_Interface_Operation_i2i
    tutorial/Prompt_course
    tutorial/concretely_generate_character&scene
 
