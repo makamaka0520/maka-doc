@@ -15,6 +15,7 @@
 
    tutorial/Basic_Interface_Operation_T2I
    tutorial/Basic_Interface_Operation_i2i
+   tutorial/Basic_Interface_Operation_inpaint
    tutorial/Prompt_course
    tutorial/concretely_generate_character&scene
 
