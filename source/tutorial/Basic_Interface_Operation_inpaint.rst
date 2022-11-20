@@ -19,7 +19,7 @@
    :align: center
    :width: 300
 
-.. image:: img/inpaint_tu_tu1.png
+.. image:: img/inpaint_tu_tu4.png
    :align: center  
    :width: 300
 
