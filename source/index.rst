@@ -13,7 +13,10 @@
    :maxdepth: 2
    :caption: 使用指南
 
-   tutorial/AI_painting_with_makabaka
+   tutorial/Basic_Interface_Operation_T2I
+   tutorial/Basic_Interface_Operation_i2i
+   tutorial/Basic_Interface_Operation_inpaint
+   tutorial/Prompt_course
    tutorial/concretely_generate_character&scene
 
 .. toctree::
