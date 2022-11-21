@@ -30,3 +30,9 @@
    :caption: 用户条款
 
    terms/terms
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 用户条款
+   
+   wishing/wishing_well 
