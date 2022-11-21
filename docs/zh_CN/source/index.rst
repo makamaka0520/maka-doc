@@ -33,6 +33,6 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 用户条款
+   :caption: 许愿池
    
    wishing/wishing_well 
