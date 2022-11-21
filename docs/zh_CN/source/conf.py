@@ -34,6 +34,12 @@ extensions = [
     "sphinx_rtd_theme",
 ]
 
+# multi-language docs
+language = 'zh_CN'
+locale_dirs = ['./']   # path is example but recommended.
+gettext_compact = False  # optional.
+gettext_uuid = True  # optional.
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = []
 
