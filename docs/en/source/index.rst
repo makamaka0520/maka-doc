@@ -10,4 +10,4 @@ Welcome to makabaka documentation!
    :maxdepth: 2
    :caption: tutorial
 
-   
+   tutorial/test
