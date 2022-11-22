@@ -5,6 +5,6 @@ Test
 
     test
 
-.. image:: ..../zh_CN/source/tutorial/img/text2img_pic28.png
+.. image:: https://mkbk-doc.readthedocs.io/zh_CN/latest/_images/text2img_pic1.png
    :align: center
    :width: 300
