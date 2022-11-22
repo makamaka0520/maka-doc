@@ -1,0 +1,14 @@
+.. makabaka documentation master file, created by
+   sphinx-quickstart on Fri Nov 18 20:40:00 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to makabaka documentation!
+##########################
+
+.. toctree::
+   :maxdepth: 2
+   :caption: tutorial
+
+   tutorial/AI_painting_with_makabaka
+
