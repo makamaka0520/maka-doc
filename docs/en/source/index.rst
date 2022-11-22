@@ -10,5 +10,4 @@ Welcome to makabaka documentation!
    :maxdepth: 2
    :caption: tutorial
 
-   tutorial/AI_painting_with_makabaka
-
+   tutorial/test
