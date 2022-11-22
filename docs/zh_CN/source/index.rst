@@ -22,9 +22,15 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 变更日志
+   :caption: 许愿池
+   
+   wishing/wishing_well 
 
-   changelog/changelog_zh
+.. toctree::
+   :maxdepth: 2
+   :caption: 常见问题
+
+   FAQ/faq_zh
 
 .. toctree::
    :maxdepth: 2
@@ -32,8 +38,3 @@
 
    terms/terms
 
-.. toctree::
-   :maxdepth: 2
-   :caption: 许愿池
-   
-   wishing/wishing_well 
