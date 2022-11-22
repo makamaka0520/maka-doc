@@ -3,9 +3,8 @@ Test
 
 .. note::
 
-    test
+    test1
 
-1
 
 .. image:: ..../zh_CN/source/tutorial/img/i2i_5.png
    :align: center
