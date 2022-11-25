@@ -18,7 +18,7 @@
 - 在比赛期间内，我们将在 `文生图功能 <http://www.bakamaka.io/txt2img>`_ 的大图界面出现 投稿功能按钮。
 
 
-    .. image:: img/bs_1.png
+    .. image:: img/bs_1.jpg
         :align: center
         
 
