@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'mkbk-doc-en'
-copyright = '2022, hus'
-author = 'hus'
+copyright = '2022, mkbk'
+author = 'mkbk'
 
 # The full version, including alpha/beta/rc tags
 release = 'v0.0.1'
