@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'mkbk-doc-jpn'
+project = 'mkbk-doc-ko'
 copyright = '2022, mkbk'
 author = 'mkbk'
 
@@ -35,7 +35,7 @@ extensions = [
 ]
 
 # multi-language docs
-language = 'ja'
+language = 'ko'
 locale_dirs = ['./']   # path is example but recommended.
 gettext_compact = False  # optional.
 gettext_uuid = True  # optional.
