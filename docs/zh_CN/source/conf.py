@@ -35,7 +35,7 @@ extensions = [
 ]
 
 # multi-language docs
-language = 'zh_CN'
+#language = 'zh_CN'
 locale_dirs = ['./']   # path is example but recommended.
 gettext_compact = False  # optional.
 gettext_uuid = True  # optional.
