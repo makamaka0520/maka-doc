@@ -18,7 +18,6 @@
    tutorial/Basic_Interface_Operation_inpaint
    tutorial/Prompt_course
    tutorial/concretely_generate_character&scene
-   tutorial/Description_of_Master_Painting_Competition
 
 .. toctree::
    :maxdepth: 2
