@@ -19,11 +19,6 @@
    tutorial/Prompt_course
    tutorial/concretely_generate_character&scene
 
-.. toctree::
-   :maxdepth: 2
-   :caption: 许愿池
-   
-   wishing/wishing_well 
 
 .. toctree::
    :maxdepth: 2
