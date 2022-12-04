@@ -13,7 +13,7 @@
 问：我对AI生成完全是小白状态，怎么样才能快速入门？
 ==========================================================
 
-答：建议您可前往 （`使用指南 <tutorial/Prompt_course.html>`_） 阅读并学习下基础知识。
+答：建议您可前往 `使用指南 <https://mkbk-doc.readthedocs.io/zh_CN/latest/tutorial/Basic_Interface_Operation_T2I.html>`_ 阅读并学习下基础知识。
 
 
 问：我生成的图片会保存多久？
