@@ -114,19 +114,10 @@ TAG强调功能：
 
     one boy, armor, cloak, feathered wings, crown
 
-.. image:: img/text2img_pic12.png
-   :align: center
-   :width: 300
-
-！！！等一下，我的翅膀哪去了，不要慌，这个时候你就需要tag强调了：
-
-.. code-block:: shell
-
-    one boy, armor, cloak, {feathered wings:1.3}, crown
-
 .. image:: img/text2img_pic13.png
    :align: center
    :width: 300
+
 
 .. note::
 
