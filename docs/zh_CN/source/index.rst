@@ -18,13 +18,7 @@
    tutorial/Basic_Interface_Operation_inpaint
    tutorial/Prompt_course
    tutorial/concretely_generate_character&scene
-   tutorial/Description_of_Master_Painting_Competition
 
-.. toctree::
-   :maxdepth: 2
-   :caption: 许愿池
-   
-   wishing/wishing_well 
 
 .. toctree::
    :maxdepth: 2
