@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'mkbk-doc-ko'
-copyright = '2022, mkbk'
-author = 'mkbk'
+project = 'bkmk-doc-ko'
+copyright = '2022, bkmk'
+author = 'bkmk'
 
 # The full version, including alpha/beta/rc tags
 release = 'v0.0.1'
