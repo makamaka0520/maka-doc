@@ -113,7 +113,7 @@
 
 我们就使用Demo的这张图片进行尝试
 
-.. image:: img/i2i_2.png
+.. image:: img/i2i_2.jpg
    :align: center
    :width: 300
 
@@ -131,7 +131,7 @@
 
 我们尝试生成下 
 
-.. image:: img/i2i_4.png
+.. image:: img/i2i_4.jpg
    :align: center
    :width: 300
 
@@ -145,7 +145,7 @@
 
 我们继续尝试生成下
 
-.. image:: img/i2i_3.png
+.. image:: img/i2i_3.jpg
    :align: center
    :width: 300
 
