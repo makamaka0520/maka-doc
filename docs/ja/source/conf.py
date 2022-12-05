@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'bkmk-doc-ja'
+project = 'bkmk-doc'
 copyright = '2022, bkmk'
 author = 'bkmk'
 
