@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'bkmk-doc'
-copyright = '2022, bkmk'
-author = 'bkmk'
+project = 'maka-doc'
+copyright = '2022, maka'
+author = 'maka'
 
 # The full version, including alpha/beta/rc tags
 release = 'v0.0.1'
