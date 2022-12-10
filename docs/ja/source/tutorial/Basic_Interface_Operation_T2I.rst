@@ -4,7 +4,7 @@ Txt2imgインターフェイスの紹介
 
 1.インターフェースの概要​
 ----------------------------------------
-.. image:: img/base_1.png
+.. image:: img/base_1.png?v=20221210
    :align: center
 
 
