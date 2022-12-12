@@ -22,7 +22,7 @@ Promptの説明​
 
 .. code-block:: shell
 
-    如：one girl, happy, long hair, red hair, suit, flowers
+   one girl, happy, long hair, red hair, suit, flowers
 
 .. image:: img/text2img_pic8.png
    :align: center
@@ -62,7 +62,7 @@ Error case：​
 
 .. note::
 
-    建议权重不要超过1.5，否则会影响整体画面观感。
+   重み付けが1.5を超えると、画像全体の見た目に影響が出るので、1.5を超えないようにすることをお勧めします。
 
 
 それでは、結果を見てみましょう：​
