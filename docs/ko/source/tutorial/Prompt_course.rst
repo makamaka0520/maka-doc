@@ -23,7 +23,7 @@ Prompt가이드
 
 .. code-block:: shell
 
-    如：one girl, happy, long hair, red hair, suit, flowers
+    one girl, happy, long hair, red hair, suit, flowers
 
 .. image:: img/text2img_pic8.png
    :align: center
